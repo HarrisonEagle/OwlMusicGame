@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A2B28FDB-7E57-5D06-2E00-31909347C4E8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/fall.cs">
+    <Files>
+      <File FileName="Assets/Controller.cs" Line="65" Column="18" />
+      <File FileName="../TJSimulator/Assets/MoveDestination.cs" Line="344" Column="9" />
+      <File FileName="Assets/fall.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OwlMusicGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="fall.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="709b9a80-af00-4734-8a15-b3648150e8c4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
